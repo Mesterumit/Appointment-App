@@ -1,0 +1,41 @@
+.doctor-img {
+  transition: transform 0.5s;
+  border-radius: 1rem;
+  max-height: 130px;
+}
+
+.doctor-img:hover {
+  transform: scale(1.02);
+  border: 2px solid red;
+  cursor: pointer;
+}
+
+.appointments {
+  width: 90%;
+  max-width: 1200px;
+  min-width: 275px;
+  border-radius: 0.3rem;
+  padding: 1rem;
+  margin-bottom: 1rem;
+  text-align: start;
+  background-image: linear-gradient(135deg, #97adce 20%, #c5c7c4 80%);
+  position: relative;
+  box-shadow: 0px 3px 3px rgba(0 0, 0, 0.3);
+}
+
+.seen {
+  border-left: 1rem solid rgb(166, 18, 189);
+  width: 90%;
+  height: auto;
+}
+.seen::after {
+  content: "Appointment took place";
+  background-color: rgb(166, 18, 189);
+  color: white;
+  font-size: 1.5rem;
+  border-radius: 1rem;
+  position: relative;
+  padding: 0.3rem;
+  transform: translate(-50%, -50%);
+}
+
