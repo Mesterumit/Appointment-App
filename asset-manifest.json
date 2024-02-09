@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Appointment-App/static/css/main.442cbf0a.css",
+    "main.js": "/Appointment-App/static/js/main.6ececa72.js",
+    "static/media/appointment.jpg": "/Appointment-App/static/media/appointment.c3cc4d3c146c50f65bdc.jpg",
+    "static/media/dr6.jpg": "/Appointment-App/static/media/dr6.933ab293e99a9c794d83.jpg",
+    "static/media/dr4.jpg": "/Appointment-App/static/media/dr4.15ebb6219d67c50986e3.jpg",
+    "static/media/dr7.jpg": "/Appointment-App/static/media/dr7.769b74d76adfa94eb3cf.jpg",
+    "static/media/dr5.jpg": "/Appointment-App/static/media/dr5.c4f9cb40bba90041e415.jpg",
+    "static/media/dr3.jpg": "/Appointment-App/static/media/dr3.4c2ab943a4c9bda51de4.jpg",
+    "static/media/dr2.jpg": "/Appointment-App/static/media/dr2.31bc69aadac03d03e15c.jpg",
+    "static/media/dr1.jpg": "/Appointment-App/static/media/dr1.f5de24e0da1cee916553.jpg",
+    "static/media/dr8.jpg": "/Appointment-App/static/media/dr8.bd8be58af3f335c24d48.jpg",
+    "index.html": "/Appointment-App/index.html",
+    "main.442cbf0a.css.map": "/Appointment-App/static/css/main.442cbf0a.css.map",
+    "main.6ececa72.js.map": "/Appointment-App/static/js/main.6ececa72.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.442cbf0a.css",
+    "static/js/main.6ececa72.js"
+  ]
+}
